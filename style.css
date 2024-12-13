@@ -347,12 +347,12 @@ section{
     width:60%;
 }
 .progress-line.javascript span{
-    width:85%;
+    width:65%;
 }
 .progress-line.python span{
-    width:50%;
+    width:60%;
 }
-.progress-line.react span{
+.progress-line.figma span{
     width:75%;
 }
 .progress-line span::after{
@@ -379,7 +379,7 @@ section{
 .progress-line.python span::after{
     content:"90%";
 }
-.progress-line.react span::after{
+.progress-line.figma span::after{
     content:"60%";
 }
 .progress-line span::before{
